@@ -95,11 +95,86 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 ## Flagship projects and public repositories
 
-| Engineering portfolio | What to inspect |
-| --- | --- |
-| [Vista Logic Dispatch](https://github.com/vistabylara-dev/vista-logic-dispatch) | Interactive delivery workflow and exception-handling design |
-| [Vista AI Visibility Research](https://github.com/vistabylara-dev/vista-ai-visibility-research) | Six dated English and Arabic observations and a replication method |
-| [Vista Technical SEO Case Studies](https://github.com/vistabylara-dev/vista-technical-seo-case-studies) | Published client scope and a URL-level verification method |
+### [Vista Logic Dispatch](https://github.com/vistabylara-dev/vista-logic-dispatch)
+
+A public engineering case study for Vista’s interactive UAE delivery workflow. [Try the demo](https://www.vistabylara.com/services/logistics-software-development-dubai).
+
+#### The operational problem
+
+An incomplete address can leave a delivery stuck between the driver, dispatcher and customer. The demo shows how an exception returns to a queue with an owner, a reason and a next action.
+
+#### Workflow
+
+| Stage | Decision or action | Evidence to check in the demo |
+| --- | --- | --- |
+| Order intake | A sample Shopify order enters the dispatch workflow | The order is available for assignment |
+| Assignment | Dispatcher reviews the window and assigns a driver | The assigned driver receives the order |
+| Address exception | Driver flags the missing building number | Dispatcher sees the reason and time |
+| Reschedule | Dispatcher corrects the address and sets a new window | Driver sees the updated instructions |
+| Proof of delivery | Driver completes the delivery | The order displays its completion evidence |
+
+#### Reference design
+
+Use a stable order ID across dispatch and delivery. Record each status change with its actor and timestamp. Treat the address exception as an actionable event, with the dispatcher responsible for resolving it. Tie completion evidence back to the same order record.
+
+#### Evaluation
+
+Run the five steps in order. Confirm that the exception stays visible until the dispatcher resolves it, that the driver receives the corrected details, and that proof of delivery appears against the original order. This is a public demonstration with a sample order. Production integration and performance figures require project-specific validation.
+
+### [Vista AI Visibility Research](https://github.com/vistabylara-dev/vista-ai-visibility-research)
+
+A documented baseline for comparing how Google AI Mode answers UAE buyer questions in English and Arabic. [Read the dated study](https://www.vistabylara.com/blog/google-ai-mode-dubai-english-arabic-test).
+
+#### Baseline and evidence
+
+On 14 November 2026, Vista ran six searches across three buying tasks and two languages. The study records the providers and sources seen in those answers.
+
+| Task | Languages | Evidence to capture |
+| --- | --- | --- |
+| Find an AI visibility audit | English and Arabic | Mentioned providers and cited service pages |
+| Fix bilingual website indexing | English and Arabic | Repair recommendations and cited diagnostics or services |
+| Audit a Shopify store | English and Arabic | Named providers and linked store-audit resources |
+
+#### Repeat the study
+
+1. Use the exact queries in the published study. Record date, time zone, market, language and search surface for each run.
+2. Capture the response and cited links. Log a missing AI response explicitly.
+3. Mark brand mentions and clickable source citations separately. A citation can point to a third-party directory or publisher.
+4. Compare like-for-like runs by task and language. Preserve both dated records when answers change.
+
+##### Observation template
+
+| Run date/time | Market | Language | Exact query | Answer shown | Providers named | Cited URLs | Evidence location |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| yyyy-mm-dd hh:mm TZ | UAE | EN or AR | Copy verbatim | Yes or no | As displayed | Full URLs | Screenshot or notes |
+
+The baseline is a dated snapshot. The [AI Visibility Readiness Checker](https://www.vistabylara.com/ai-visibility-audit) measures technical readiness on public pages. The study measures what appeared in specific AI answers.
+
+### [Vista Technical SEO Case Studies](https://github.com/vistabylara-dev/vista-technical-seo-case-studies)
+
+Public records and a repeatable method for checking technical search issues. The project records establish the scope Vista published for each engagement.
+
+#### Project evidence
+
+| Industry | Documented work | Source |
+| --- | --- | --- |
+| Interiors and homeware | Structured data and Google indexing error fixes, alongside website enhancements and search campaigns | [Opel Home project](https://www.vistabylara.com/case-studies/opel-home) |
+| E-commerce | Website enhancements and SEO scoped to UAE and Saudi audiences | [Al Za3faran project](https://www.vistabylara.com/case-studies/alza3faran) |
+
+#### Audit and acceptance checks
+
+| Problem | Inspect before changing it | Verify after release |
+| --- | --- | --- |
+| Page is hard to discover | Internal links, sitemap membership, robots access and HTTP response | Follow a real site link to the expected public URL and check the response |
+| Search selects a different URL | Redirects, canonical hints and duplicate templates | Check redirect destinations and canonical consistency in the served HTML |
+| English and Arabic pages are confused | Language-specific URLs, canonical targets and reciprocal alternates | Check both languages and capture the alternates served on each page |
+| Structured data errors | Markup syntax and alignment with page content | Validate the live markup and record the result by URL |
+
+#### Record the outcome
+
+For each affected URL, capture the before state, deployed change, verification date and current Search Console status when available. Track successful delivery and indexing as separate observations. Report visibility or traffic changes only when the source and comparison period are available.
+
+[Technical SEO audit guide](https://www.vistabylara.com/blog/technical-seo-audit-dubai-stabilizing-reach) · [Vista portfolio](https://www.vistabylara.com/case-studies)
 
 ### UAE AI Prompt Library
 A bilingual resource for UAE businesses with Vista templates, examples for customer enquiries and product content, and guidance on adapting prompts to a market or channel. The repository documents source attribution and Arabic translation review.
@@ -111,15 +186,31 @@ The public checker reviews up to 15 public pages for crawl access, structured da
 
 [Run the checker](https://www.vistabylara.com/ai-visibility-audit) · [Discovery scanner](https://github.com/vistabylara-dev/ai-discovery-scanner) · [Discovery framework](https://github.com/vistabylara-dev/ai-discovery-framework)
 
-### Vista Logic dispatch demo
-Follow a sample Dubai delivery from order intake and driver assignment through a missing-address exception, rescheduling and proof of delivery. The demo shows which decisions belong to the dispatcher and which updates the driver needs.
-
-[Try the dispatch demo](https://www.vistabylara.com/services/logistics-software-development-dubai)
-
 ### Quantara AI BOQ
 A construction software project in development for drawing intake, quantity review, BOQ revisions, rate data and proposal workflows. The repository documents the architecture and release checks. Quantity review and approval sit with the responsible professional.
 
 [View the project documentation](https://github.com/vistabylara-dev/quantara-ai-boq)
+
+### [Vista Claude Skills and Shopify Help Finder](https://github.com/vistabylara-dev/vista-claude-skills)
+
+The Help Finder asks for the visible problem, affected device and recent change, then returns focused checks, a code guide and a summary the merchant can copy or print. The repository links 50 Shopify and PHP troubleshooting topics and accepts questions in English and Arabic.
+
+| Symptom | Where to start |
+| --- | --- |
+| A custom section is absent from the theme editor | [Section schema and presets](https://github.com/vistabylara-dev/vista-claude-skills/discussions/4) |
+| Editing one product changes others | [Shared product templates](https://github.com/vistabylara-dev/vista-claude-skills/discussions/5) |
+| The storefront scrolls sideways on mobile | [Mobile horizontal overflow](https://github.com/vistabylara-dev/vista-claude-skills/discussions/9) |
+| The product form sends the wrong item | [Variant input checks](https://github.com/vistabylara-dev/vista-claude-skills/discussions/41) |
+
+[Open the interactive Help Finder](https://vistabylara-dev.github.io/vista-claude-skills/) · [Browse all 50 topics](https://github.com/vistabylara-dev/vista-claude-skills/discussions/3#discussioncomment-19162049)
+
+### [AI Discovery Framework](https://github.com/vistabylara-dev/ai-discovery-framework)
+
+Technical documentation for connecting business entities, services, and pages so their relationships are easier to interpret. The framework covers Schema.org and JSON-LD for organizations, people, services, products, articles and breadcrumbs. It also documents canonical URLs, internal linking, semantic HTML, robots rules, XML sitemaps and machine-readable resources such as llms.txt and OpenAPI specifications. Its examples and roadmap cover Next.js, Shopify and Cloudflare Workers.
+
+### Project status and evidence
+
+The dispatch project is a sample workflow. The six AI search observations are a dated research baseline. The SEO case studies link to published client scope and show what to verify on individual URLs. Quantara’s BOQ repository documents an application in development.
 
 ## Client work by industry
 
