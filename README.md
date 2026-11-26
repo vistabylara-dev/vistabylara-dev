@@ -7,6 +7,8 @@
 [![Website — Vista by Lara](https://img.shields.io/static/v1?label=Website&message=Vista%20by%20Lara&color=0057c2&style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vistabylara.com/) [![LinkedIn — Dr. Lara Farbactian](https://img.shields.io/static/v1?label=LinkedIn&message=Dr.%20Lara%20Farbactian&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-eros-farbactian-b438782a9/) [![Credentials — Google Skillshop](https://img.shields.io/static/v1?label=Credentials&message=Google%20Skillshop&color=4285f4&style=for-the-badge&logo=google&logoColor=white)](https://www.vistabylara.com/about)  
 [![GitHub — Technical projects](https://img.shields.io/static/v1?label=GitHub&message=Technical%20projects&color=168042&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vistabylara-dev?tab=repositories) [![Publications — Vista Insights](https://img.shields.io/static/v1?label=Publications&message=Vista%20Insights&color=222222&style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.vistabylara.com/blog) [![Recognition — Global Brand Awards 2026](https://img.shields.io/static/v1?label=Recognition&message=Global%20Brand%20Awards%202026&color=895c22&style=for-the-badge&logo=starship&logoColor=white)](https://www.globalbrandsmagazine.com/award-winners-2026/?id=650&cat_id=30205)
 
+[![Shopify — Partner · 2015](https://img.shields.io/static/v1?label=Shopify&message=Partner%20%C2%B7%202015&color=567b18&style=for-the-badge&logo=shopify&logoColor=white)](#partner-badges-and-certifications) [![Google — Premier Partner · 2023](https://img.shields.io/static/v1?label=Google&message=Premier%20Partner%20%C2%B7%202023&color=2463bd&style=for-the-badge&logo=google&logoColor=white)](#partner-badges-and-certifications) [![Meta — Business Partner](https://img.shields.io/static/v1?label=Meta&message=Business%20Partner&color=0866ff&style=for-the-badge&logo=meta&logoColor=white)](#partner-badges-and-certifications) [![TikTok — Partner](https://img.shields.io/static/v1?label=TikTok&message=Partner&color=161823&style=for-the-badge&logo=tiktok&logoColor=white)](#partner-badges-and-certifications)
+
 ---
 
 <img src="assets/lara-eros-farbactian.jpg" alt="Portrait of Dr. Lara Eros Farbactian, founder of Vista by Lara and Quantara" width="260" align="right">
@@ -30,7 +32,7 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 [Founder biography and career record](https://www.vistabylara.com/about) · [Provance project and public evidence](https://www.vistabylara.com/case-studies/provance)
 
-## Career track record and selected results
+## Key career metrics and documented results
 
 | Published figure | Context |
 | --- | --- |
@@ -44,8 +46,34 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 - **2026 Global Brand Awards** — Vista by Lara lists an award for Excellence in Integrated Digital Marketing & Business Development. [Vista announcement](https://www.vistabylara.com/) · [Global Brands Magazine listing](https://www.globalbrandsmagazine.com/award-winners-2026/?id=650&cat_id=30205)
 - **Provance AI Room Visualizer** — The published Provance case links the awards record crediting my role in corporate strategy for the project. [Project credits and recognition](https://www.vistabylara.com/case-studies/provance)
-- **Career partner badges** — Shopify Partner (2015), Google Premier Partner (2023) and Meta Business Partner badges are documented in my career portfolio. [Career recognition](https://www.vistabylara.com/about)
-- **Skillshop credentials** — [Google Ads Search](https://skillshop.credential.net/3e05a821-71c8-4b95-a43b-9295c7091006) · [Google Analytics](https://skillshop.credential.net/563667f8-7b37-4596-a345-747735fb32ed)
+## Partner badges and certifications
+
+| Platform | Career recognition |
+| --- | --- |
+| **Shopify** | Shopify Partner badge (2015). |
+| **Google** | Google Premier Partner badge (2023), Google Ads Certified Partner and Google Partner approved-agency badges. |
+| **Meta** | Meta Business Partner badge. |
+| **TikTok** | TikTok Partner, reported in my career history. |
+
+[View the published career badge gallery](https://www.vistabylara.com/about)
+
+**Google Skillshop credentials**
+
+- [Google Ads Search](https://skillshop.credential.net/3e05a821-71c8-4b95-a43b-9295c7091006)
+- [Google Analytics](https://skillshop.credential.net/563667f8-7b37-4596-a345-747735fb32ed)
+- [Campaign Manager 360](https://skillshop.credential.net/c31fdc67-802d-4e43-9dd3-e9e31ac86d15)
+- [AI-Powered Performance Ads](https://skillshop.credential.net/4c49fdf6-9ac1-4705-8754-2b7db48ec75)
+- [Conversion Optimization](https://skillshop.credential.net/df3aabc5-5f26-4f16-b7ed-83f66567cad6)
+- [AI-Powered Shopping Ads](https://skillshop.credential.net/04f4630b-7f53-49e0-80db-e6731db8021d)
+- [Grow Offline Sales](https://skillshop.credential.net/7912e6ac-c20a-4039-b89f-8c75f9a24a49)
+
+## Business turnaround and delivery skills
+
+- **Business turnaround and sales recovery** — diagnose where revenue and opportunities are being lost, define the changes the company needs and build a recovery strategy around its market.
+- **Opportunity creation and B2B partnerships** — open routes to buyers, suppliers and partners. Qualify opportunities and build a process for proposals, negotiation and follow-up.
+- **E-commerce and paid acquisition** — Shopify search visibility and migration recovery, Google Ads Search and Shopping, conversion tracking and campaign measurement.
+- **English and Arabic market visibility** — technical SEO, bilingual indexing, buyer-question research and AI search citation tracking.
+- **Workflow automation and product development** — lead routing, human approvals, exception handling, dispatch workflows and construction quantity-review software.
 
 ## Technical capabilities and architecture
 
