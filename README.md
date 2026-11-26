@@ -262,6 +262,8 @@ Explore **29 published client records** by sector, from B2B partnerships and AI-
 
 ### Evidence assets
 
+[View four original anonymised Google Search Console screenshots](https://github.com/vistabylara-dev/vista-technical-seo-case-studies#original-search-console-screenshots) showing six-month clicks, impressions, CTR and average position.
+
 | Asset | What it shows |
 | --- | --- |
 | [Google Ads report summary](assets/google-ads-report-summary.png) | Vista’s anonymised reporting window and recorded metrics, drawn from the [published 13-snapshot reporting record](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025). |
