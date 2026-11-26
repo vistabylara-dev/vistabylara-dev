@@ -264,11 +264,11 @@ Explore **29 published client records** by sector, from B2B partnerships and AI-
 
 | Asset | What it shows |
 | --- | --- |
-| [Google Ads report summary](assets/google-ads-report-summary.svg) | Vista’s anonymised reporting window and recorded metrics, drawn from the [published 13-snapshot reporting record](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025). |
+| [Google Ads report summary](assets/google-ads-report-summary.png) | Vista’s anonymised reporting window and recorded metrics, drawn from the [published 13-snapshot reporting record](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025). |
 | [Bilingual Google AI Mode study design](assets/ai-mode-study-design.svg) | The date, market, languages and six observations documented in the [published study](https://www.vistabylara.com/blog/google-ai-mode-dubai-english-arabic-test). |
 | [Vista Logic dispatch workflow](assets/vista-logic-demo-workflow.svg) | The five stages of a sample delivery in the [interactive demonstration](https://www.vistabylara.com/services/logistics-software-development-dubai). |
 
-[![Published Google Ads report summary showing 126K impressions, 4.04K clicks and 2.32K recorded conversion events](assets/google-ads-report-summary.svg)](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025)
+[![Published Google Ads report summary showing 126K impressions, 4.04K clicks and 2.32K recorded conversion events](assets/google-ads-report-summary.png)](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025)
 
 [Browse Vista’s full portfolio](https://www.vistabylara.com/case-studies)
 
