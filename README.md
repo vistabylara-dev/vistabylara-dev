@@ -1,14 +1,19 @@
 # Dr. Lara Eros Farbactian
 
-<img src="assets/lara-eros-farbactian.jpg" alt="Portrait of Dr. Lara Eros Farbactian, founder of Vista by Lara and Quantara" width="260" align="right">
+### Founder of Vista by Lara and Quantara · Dubai, UAE
 
-**Founder of Vista by Lara and Quantara**  
-Business development, AI search visibility and automation  
-Dubai, United Arab Emirates · UAE and GCC markets
+**Business development · Technical SEO and AI search visibility · Workflow automation**
+
+[![Website — Vista by Lara](https://img.shields.io/static/v1?label=Website&message=Vista%20by%20Lara&color=0057c2&style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vistabylara.com/) [![LinkedIn — Dr. Lara Farbactian](https://img.shields.io/static/v1?label=LinkedIn&message=Dr.%20Lara%20Farbactian&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lara-eros-farbactian-b438782a9/) [![Credentials — Google Skillshop](https://img.shields.io/static/v1?label=Credentials&message=Google%20Skillshop&color=4285f4&style=for-the-badge&logo=google&logoColor=white)](https://www.vistabylara.com/about)  
+[![GitHub — Technical projects](https://img.shields.io/static/v1?label=GitHub&message=Technical%20projects&color=168042&style=for-the-badge&logo=github&logoColor=white)](https://github.com/vistabylara-dev?tab=repositories) [![Publications — Vista Insights](https://img.shields.io/static/v1?label=Publications&message=Vista%20Insights&color=222222&style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.vistabylara.com/blog) [![Recognition — Global Brand Awards 2026](https://img.shields.io/static/v1?label=Recognition&message=Global%20Brand%20Awards%202026&color=895c22&style=for-the-badge&logo=starship&logoColor=white)](https://www.globalbrandsmagazine.com/award-winners-2026/?id=650&cat_id=30205)
+
+---
+
+<img src="assets/lara-eros-farbactian.jpg" alt="Portrait of Dr. Lara Eros Farbactian, founder of Vista by Lara and Quantara" width="260" align="right">
 
 I help companies reach the buyers they want, build partnerships and fix the technical problems that keep their work from being found. My work connects commercial strategy with websites, technical SEO, English and Arabic AI search, and software shaped around real workflows.
 
-[Vista by Lara](https://www.vistabylara.com/) · [LinkedIn](https://www.linkedin.com/in/lara-eros-farbactian-b438782a9/) · [ناقش مشروعك مع فيستا](https://www.vistabylara.com/ar/about)
+[Discuss a project](https://www.vistabylara.com/contact) · [نبذة عن لارا بالعربية](https://www.vistabylara.com/ar/about)
 
 <br clear="right">
 
