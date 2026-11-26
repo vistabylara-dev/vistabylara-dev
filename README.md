@@ -214,16 +214,63 @@ The dispatch project is a sample workflow. The six AI search observations are a 
 
 ## Client work by industry
 
-| Industry | Work documented publicly |
-| --- | --- |
-| **Furniture and interiors** | [Opel Home](https://www.vistabylara.com/case-studies/opel-home) covers structured data and Google indexing error repairs, website improvements and search campaigns. |
-| **Interior fit-out and suppliers** | [Provance](https://www.vistabylara.com/case-studies/provance) covers a B2B website, business development, government supplier-listing support and AI project recognition. |
-| **Early-years education** | [Dazzle Kids Nursery](https://www.vistabylara.com/case-studies/dazzle-kids-nursery) covers website design and improvement, an AI lead agent and B2B development. |
-| **Retail and e-commerce** | [Al Za3faran](https://www.vistabylara.com/case-studies/alza3faran) covers website enhancements and SEO for UAE and Saudi audiences. |
-| **Healthcare** | [Dr. Alaa Nasr](https://www.vistabylara.com/case-studies/dr-alaa-nasr) covers a website, SEO, AI tools, awards positioning and branding. |
-| **Hospitality and floral supply** | [Luxurious Flower](https://www.vistabylara.com/case-studies/luxurious-flower) covers the work of developing hotel supplier relationships and related event opportunities. |
+Explore **29 published client records** by sector, from B2B partnerships and AI-assisted workflows to website delivery, technical SEO and paid acquisition.
 
-[Explore the full Vista portfolio](https://www.vistabylara.com/case-studies)
+### Commercial strategy, partnerships and AI workflows
+
+| Client case | Sector or market | Published work |
+| --- | --- | --- |
+| [Elysian Minds](https://www.vistabylara.com/case-studies/elysian-minds) | Education | B2B development, strategic partnerships and growth planning. |
+| [Dazzle Kids Nursery](https://www.vistabylara.com/case-studies/dazzle-kids-nursery) | Early years | Nursery website design and improvement, B2B development and an AI lead agent. |
+| [First Path Montessori](https://www.vistabylara.com/case-studies/first-path-montessori) | Early years | Strategic partnerships, B2B development and an AI lead agent. |
+| [Anonymised real estate company](https://www.vistabylara.com/case-studies/real-estate-company) | Property | AI-assisted bilingual buyer intake, property classification and source-linked research. |
+| [Provance](https://www.vistabylara.com/case-studies/provance) | Fit-out and interiors | B2B website and government supplier-listing support. The record also links AI Room Visualizer credits. |
+| [Luxurious Flower](https://www.vistabylara.com/case-studies/luxurious-flower) | Floral supply and hospitality | Hotel supplier development and event work. Vista’s broader multi-client record reports eight annual hotel flower-supply contracts. |
+| [Musk Al Khulood](https://www.vistabylara.com/case-studies/musk-al-khulood) | Fragrance | B2B website, GCC expansion, business development and social media. |
+| [Smokey Oud](https://www.vistabylara.com/case-studies/smokey-oud) | Fragrance | Sales growth strategy, event collaborations, influencer marketing and social media during 2024. |
+| [iKitchen](https://www.vistabylara.com/case-studies/ikitchen) | Kitchens and interiors | B2B development, online presence improvements and AI tooling. |
+
+### Websites, technical SEO and tools
+
+| Client case | Sector or market | Published work |
+| --- | --- | --- |
+| [Opel Home](https://www.vistabylara.com/case-studies/opel-home) | Home and interiors retail | Website enhancements, structured data fixes, Google indexing error fixes, SEO and Google Ads. |
+| [Al Za3faran](https://www.vistabylara.com/case-studies/alza3faran) | E-commerce | Website enhancements and SEO across UAE and Saudi audiences. |
+| [88 Studies](https://www.vistabylara.com/case-studies/88-studies) | Education | Website development and an AI word-count tool. |
+| [Inside Home Studio](https://www.vistabylara.com/case-studies/inside-home-studio) | Interiors | B2B website and online marketing in Egypt, January to October 2025. |
+| [Dr. Alaa Nasr](https://www.vistabylara.com/case-studies/dr-alaa-nasr) | Healthcare | Sharjah website, SEO, AI tools, branding and awards positioning. |
+| [Effective Gum](https://www.vistabylara.com/case-studies/effective-gum) | Oral care | UAE website design, search optimisation and branding in 2025. |
+
+### Search campaigns, social media and healthcare portfolio
+
+| Client case | Sector or market | Published work |
+| --- | --- | --- |
+| [ICS Real Estate](https://www.vistabylara.com/case-studies/ics-real-estate) | Property | SEO and advertising on Google and Meta. |
+| [Harbor Dubai](https://www.vistabylara.com/case-studies/harbor-dubai) | Property | SEO and campaigns on Google and Meta. |
+| [Bouguessa](https://www.vistabylara.com/case-studies/bouguessa) | Fashion | SEO and acquisition campaigns on Google and Meta. |
+| [By Noor](https://www.vistabylara.com/case-studies/by-noor) | Fashion | SEO, Google Ads and Meta Ads. |
+| [LC Official](https://www.vistabylara.com/case-studies/lc-official) | Fashion | SEO and campaign scope on Google and Meta. |
+| [Abayat Souki](https://www.vistabylara.com/case-studies/abayat-souki) | Fashion | Social media management and Meta advertising. |
+| [Room Envy](https://www.vistabylara.com/case-studies/room-envy) | Interiors | SEO and advertising on Google and Meta. |
+| [Klekktic](https://www.vistabylara.com/case-studies/klekktic) | Furniture | SEO and paid acquisition on Google and Meta. |
+| [Bact Training](https://www.vistabylara.com/case-studies/bact-training) | Professional training | Social media management and campaigns on Google and Meta. |
+| [Mabrooka Slovakia](https://www.vistabylara.com/case-studies/mabrooka-slovakia) | Abu Dhabi client | Social media management and Meta advertising. |
+| [Road Topix](https://www.vistabylara.com/case-studies/roadtopix) | Automotive | Dubai social media management and Google Ads in 2024. |
+| [Dalia Aesthetics](https://www.vistabylara.com/case-studies/dalia-aesthetics) | Aesthetics | Instagram management in Dubai during 2025. |
+| [Covent Clinic](https://www.vistabylara.com/case-studies/covent-clinic) | Healthcare | Public client profile. |
+| [Plato Health Clinic](https://www.vistabylara.com/case-studies/plato-health-clinic) | Healthcare | Public client profile. |
+
+### Evidence assets
+
+| Asset | What it shows |
+| --- | --- |
+| [Google Ads report summary](assets/google-ads-report-summary.svg) | Vista’s anonymised reporting window and recorded metrics, drawn from the [published 13-snapshot reporting record](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025). |
+| [Bilingual Google AI Mode study design](assets/ai-mode-study-design.svg) | The date, market, languages and six observations documented in the [published study](https://www.vistabylara.com/blog/google-ai-mode-dubai-english-arabic-test). |
+| [Vista Logic dispatch workflow](assets/vista-logic-demo-workflow.svg) | The five stages of a sample delivery in the [interactive demonstration](https://www.vistabylara.com/services/logistics-software-development-dubai). |
+
+[![Published Google Ads report summary showing 126K impressions, 4.04K clicks and 2.32K recorded conversion events](assets/google-ads-report-summary.svg)](https://www.vistabylara.com/case-studies/anonymous-google-ads-june-2025)
+
+[Browse Vista’s full portfolio](https://www.vistabylara.com/case-studies)
 
 ## How I work
 
