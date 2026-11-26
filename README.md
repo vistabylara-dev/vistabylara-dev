@@ -11,7 +11,9 @@
 
 <img src="assets/lara-eros-farbactian.jpg" alt="Portrait of Dr. Lara Eros Farbactian, founder of Vista by Lara and Quantara" width="260" align="right">
 
-I help companies reach the buyers they want, build partnerships and fix the technical problems that keep their work from being found. My work connects commercial strategy with websites, technical SEO, English and Arabic AI search, and software shaped around real workflows.
+I create new business opportunities and lead turnaround work for companies that are losing sales, facing mounting losses or at risk of bankruptcy. I find where sales are leaking and why opportunities are being lost, from an offer buyers don’t see value in to qualified enquiries that never get followed up.
+
+I build a tailored business strategy around what I find. That can mean reshaping the offer, opening new routes to buyers and partners, or rebuilding how enquiries move through qualification, proposals and follow-up. I bring in search, websites and automation where they address a specific commercial problem.
 
 [Discuss a project](https://www.vistabylara.com/contact) · [نبذة عن لارا بالعربية](https://www.vistabylara.com/ar/about)
 
