@@ -32,6 +32,13 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 [Founder biography and career record](https://www.vistabylara.com/about) · [Provance project and public evidence](https://www.vistabylara.com/case-studies/provance)
 
+## Key Proven Engineering Metrics with AI
+
+- 🔎 **Up to 15 public pages per readiness scan** — Vista’s AI Visibility Readiness Checker reviews crawl access, structured data and content readiness, then returns evidence and prioritised fixes. [Run the checker](https://www.vistabylara.com/ai-visibility-audit)
+- 🧪 **6 dated Google AI Mode tests across 2 languages** — Vista tested three buyer tasks in English and Arabic on 14 November 2026, recording which providers and cited sources appeared for AI visibility, bilingual indexing and Shopify SEO questions. [Read the findings](https://www.vistabylara.com/blog/google-ai-mode-dubai-english-arabic-test)
+- 🌐 **3,316 searchable prompt records** — Vista’s UAE library combines an attributed upstream catalogue with Vista’s own English and Arabic templates. The public repository documents attribution and the human review workflow for Arabic translations. [Open the prompt library](https://www.vistabylara.com/tools/uae-ai-prompts) · [View the repository](https://github.com/vistabylara-dev/uae-ai-prompt-library)
+- 🏗️ **Quantara AI BOQ construction workflow** — The project documentation covers drawing intake, quantity review, rate data, BOQ revisions and proposal workflows. Its architecture uses Next.js, TypeScript, PostgreSQL and Prisma, with professional review built into the quantity workflow. [Inspect the project documentation](https://github.com/vistabylara-dev/quantara-ai-boq)
+
 ## Key career metrics and documented results
 
 | Published figure | Context |
