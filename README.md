@@ -95,6 +95,12 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 ## Flagship projects and public repositories
 
+| Engineering portfolio | What to inspect |
+| --- | --- |
+| [Vista Logic Dispatch](https://github.com/vistabylara-dev/vista-logic-dispatch) | Interactive delivery workflow and exception-handling design |
+| [Vista AI Visibility Research](https://github.com/vistabylara-dev/vista-ai-visibility-research) | Six dated English and Arabic observations and a replication method |
+| [Vista Technical SEO Case Studies](https://github.com/vistabylara-dev/vista-technical-seo-case-studies) | Published client scope and a URL-level verification method |
+
 ### UAE AI Prompt Library
 A bilingual resource for UAE businesses with Vista templates, examples for customer enquiries and product content, and guidance on adapting prompts to a market or channel. The repository documents source attribution and Arabic translation review.
 
