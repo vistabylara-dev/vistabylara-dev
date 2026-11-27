@@ -30,13 +30,29 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 ## Featured work and evidence
 
-| Business problem | Vista’s work and what you can verify |
-| --- | --- |
-| **Important pages are missing from Google** | The Opel Home record documents website enhancements, structured data fixes and indexing error repairs. The technical SEO repository also contains four original anonymised Search Console captures. [Opel Home case](https://www.vistabylara.com/case-studies/opel-home) · [Open the dashboard evidence](https://github.com/vistabylara-dev/vista-technical-seo-case-studies#original-search-console-screenshots) |
-| **A supplier needs recurring B2B contracts** | Vista’s published hospitality record describes hotel supplier development and reports **eight annual flower-supply contracts across its wider client work**. [Read the case and result](https://www.vistabylara.com/case-studies/luxurious-flower) |
-| **A delivery stalls when the driver finds an incomplete address** | Vista Logic shows how the dispatcher receives the exception, corrects the address, reschedules the order and sees proof of delivery. [Try the sample workflow](https://www.vistabylara.com/services/logistics-software-development-dubai) · [Read the workflow design](https://github.com/vistabylara-dev/vista-logic-dispatch) |
+### Sales recovery for a UAE fashion store
 
-[See all 29 published client records](#client-work-by-industry) · [Explore project architecture](#project-architecture)
+**Problem.** An anonymised fashion e-commerce business had high traffic and low conversion. **Work.** Vista analysed the funnel and heatmaps, reviewed attribution, and reported running 24 A/B tests alongside consent-mode tracking. **Reported result.** The conversion rate moved from **1.4% to 2.3%**, and revenue per visitor increased **47%**. The public listing identifies the client as confidential and does not give the measurement dates.
+
+[Read Vista’s published project record on Sortlist](https://www.sortlist.com/agency/vista-by-lara-artificial-intelligence#:~:text=CRO%20%26%20Multi-Touch%20Attribution) · [Discuss where your sales are leaking](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=featured_sales_recovery)
+
+### Technical SEO and Google indexing for Opel Home
+
+**Work.** Vista’s case documents website enhancements, structured-data corrections and Google indexing-error fixes on an existing commerce site. **Dated evidence.** On 29 August 2026, the case recorded a live commerce site with structured data and a self-referencing canonical. A URL-level before-and-after indexing report for Opel Home is unavailable in the public case. Four original anonymised Search Console captures are available as separate six-month performance examples.
+
+[Read the Opel Home case](https://www.vistabylara.com/case-studies/opel-home) · [Open the original dashboard evidence](https://github.com/vistabylara-dev/vista-technical-seo-case-studies#original-search-console-screenshots) · [Discuss an indexing repair](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=featured_indexing_repair)
+
+### B2B opportunity creation for flower suppliers
+
+Vista’s published sector record reports **eight one-year hotel flower-supply contracts across multiple clients**, with the first contract secured in two months. The same page documents Luxurious Flower’s 2025 engagement on B2B website design, social media and business development.
+
+[Read the hospitality case](https://www.vistabylara.com/case-studies/luxurious-flower) · [Discuss buyer and supplier opportunities](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=featured_b2b_opportunities)
+
+### Vista Logic dispatch demonstration
+
+Follow a sample delivery through a missing-address exception, dispatcher correction, a new delivery window and proof of delivery on the original order. [Try the demo](https://www.vistabylara.com/services/logistics-software-development-dubai) · [Inspect the workflow](https://github.com/vistabylara-dev/vista-logic-dispatch)
+
+[Read client reviews on Sortlist](https://www.sortlist.com/agency/vista-by-lara-artificial-intelligence#reviews) · [See all 29 published client records](#client-work-by-industry) · [Explore project architecture](#project-architecture)
 
 ## Executive profile and leadership experience
 
