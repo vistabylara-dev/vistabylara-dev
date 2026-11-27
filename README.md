@@ -32,7 +32,7 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 
 ### Sales recovery for a UAE fashion store
 
-**Problem.** An anonymised fashion e-commerce business had high traffic and low conversion. **Work.** Vista analysed the funnel and heatmaps, reviewed attribution, and reported running 24 A/B tests alongside consent-mode tracking. **Reported result.** The conversion rate moved from **1.4% to 2.3%**, and revenue per visitor increased **47%**. The public listing identifies the client as confidential and does not give the measurement dates.
+**Problem.** An anonymised fashion e-commerce business had high traffic and low conversion. **Work.** Vista analysed the funnel and heatmaps, reviewed attribution, and reported running 24 A/B tests alongside consent-mode tracking. **Reported result.** The conversion rate moved from **1.4% to 2.3%**, and revenue per visitor increased **47%**. Vista reports these results for a two-month period from July to September 2026. The client remains confidential.
 
 [Read Vista’s published project record on Sortlist](https://www.sortlist.com/agency/vista-by-lara-artificial-intelligence#:~:text=CRO%20%26%20Multi-Touch%20Attribution) · [Discuss where your sales are leaking](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=featured_sales_recovery)
 
