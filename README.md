@@ -17,9 +17,26 @@ I create opportunities. I step in when companies keep losing sales and money, an
 
 I find where sales leak, what makes buyers walk away, and which opportunities the business is losing. Then I fix what’s costing the company business and create new routes to buyers, partnerships and revenue. I build that strategy around the company, its market and what it takes to win business again.
 
-[Discuss a project](https://www.vistabylara.com/contact) · [نبذة عن لارا بالعربية](https://www.vistabylara.com/ar/about)
-
 <br clear="right">
+
+## Where is your business losing opportunities?
+
+| If this is your issue | Start here |
+| --- | --- |
+| **My business is losing sales.** | Tell me which customers you need to win and where deals stall. [Discuss sales recovery](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=sales_recovery) |
+| **My website is losing visibility.** | Send the website, affected URLs and target market or language. [Discuss SEO or AI visibility](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=search_visibility) |
+
+[Message Dr. Lara on WhatsApp](https://wa.me/971507994292?text=Hi%20Dr.%20Lara%2C%20I%20found%20your%20GitHub%20profile.%20My%20website%20is%3A%20.%20My%20target%20market%20is%3A%20.%20The%20opportunity%20or%20problem%20I%20want%20to%20discuss%20is%3A%20.) · [تواصل مع فيستا بالعربية](https://www.vistabylara.com/ar/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=arabic)
+
+## Featured work and evidence
+
+| Business problem | Vista’s work and what you can verify |
+| --- | --- |
+| **Important pages are missing from Google** | The Opel Home record documents website enhancements, structured data fixes and indexing error repairs. The technical SEO repository also contains four original anonymised Search Console captures. [Opel Home case](https://www.vistabylara.com/case-studies/opel-home) · [Open the dashboard evidence](https://github.com/vistabylara-dev/vista-technical-seo-case-studies#original-search-console-screenshots) |
+| **A supplier needs recurring B2B contracts** | Vista’s published hospitality record describes hotel supplier development and reports **eight annual flower-supply contracts across its wider client work**. [Read the case and result](https://www.vistabylara.com/case-studies/luxurious-flower) |
+| **A delivery stalls when the driver finds an incomplete address** | Vista Logic shows how the dispatcher receives the exception, corrects the address, reschedules the order and sees proof of delivery. [Try the sample workflow](https://www.vistabylara.com/services/logistics-software-development-dubai) · [Read the workflow design](https://github.com/vistabylara-dev/vista-logic-dispatch) |
+
+[See all 29 published client records](#client-work-by-industry) · [Explore project architecture](#project-architecture)
 
 ## Executive profile and leadership experience
 
@@ -33,6 +50,8 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 [Founder biography and career record](https://www.vistabylara.com/about) · [Provance project and public evidence](https://www.vistabylara.com/case-studies/provance)
 
 ## Key Proven Engineering Metrics with AI
+
+The figures below describe tool capacity, dated research, and the scope of public resources. [Open the original anonymised Search Console captures](https://github.com/vistabylara-dev/vista-technical-seo-case-studies#original-search-console-screenshots) for six-month search performance snapshots. The captures don’t identify individual properties.
 
 - 🔎 **Up to 15 public pages per readiness scan** — Vista’s AI Visibility Readiness Checker reviews crawl access, structured data and content readiness, then returns evidence and prioritised fixes. [Run the checker](https://www.vistabylara.com/ai-visibility-audit)
 - 🧪 **6 dated Google AI Mode tests across 2 languages** — Vista tested three buyer tasks in English and Arabic on 14 November 2026, recording which providers and cited sources appeared for AI visibility, bilingual indexing and Shopify SEO questions. [Read the findings](https://www.vistabylara.com/blog/google-ai-mode-dubai-english-arabic-test)
@@ -60,7 +79,7 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 | **Shopify** | Shopify Partner badge (2015). |
 | **Google** | Google Premier Partner badge (2023), Google Ads Certified Partner and Google Partner approved-agency badges. |
 | **Meta** | Meta Business Partner badge. |
-| **TikTok** | TikTok Partner, reported in my career history. |
+| **TikTok** | TikTok Partner, self-reported career badge. |
 
 [View the published career badge gallery](https://www.vistabylara.com/about)
 
@@ -92,6 +111,14 @@ I find where sales leak, what makes buyers walk away, and which opportunities th
 | **AI agents and workflow automation** | Map inputs, decision points and approval steps. Connect approved systems using tools such as n8n and CRM integrations. Test exceptions and route them to the right person. |
 | **Construction and logistics software** | Model order, dispatch and delivery exceptions in Vista Logic. Quantara’s public project documentation describes a Next.js, TypeScript, PostgreSQL and Prisma stack for BOQ review and revisions. |
 | **Commercial measurement** | Review campaigns and website events against the enquiry and sales process. Use conversion records, qualification criteria and follow-up to understand what happens after a click. |
+
+## Project architecture
+
+| Project | Inputs → processing → output | Where to inspect it |
+| --- | --- | --- |
+| **Vista Logic Dispatch** | Sample Shopify order → dispatcher assigns driver → missing-address exception returns to dispatcher → corrected delivery window → proof of delivery on the same order. | [Workflow and acceptance checks](https://github.com/vistabylara-dev/vista-logic-dispatch) · [Live demonstration](https://www.vistabylara.com/services/logistics-software-development-dubai) |
+| **Vista AI Discovery** | Public URLs → crawl access, structured data and content-readiness checks → evidence and prioritised fixes. The framework documents how site structure, JSON-LD, sitemaps and machine-readable directories fit together. | [Readiness Checker](https://www.vistabylara.com/ai-visibility-audit) · [Architecture framework](https://github.com/vistabylara-dev/ai-discovery-framework) · [Discovery scanner](https://github.com/vistabylara-dev/ai-discovery-scanner) |
+| **Quantara AI BOQ** | Drawings → quantity review and rate data → professional approval → BOQ revisions and proposal workflow. Documented stack includes Next.js, TypeScript, PostgreSQL and Prisma. | [Architecture and release checks for the project in development](https://github.com/vistabylara-dev/quantara-ai-boq) |
 
 ## Flagship projects and public repositories
 
@@ -295,7 +322,7 @@ For a project conversation, send your website, target market and the first comme
 
 | Channel | Link |
 | --- | --- |
-| Project enquiries | [Discuss your project with Lara](https://www.vistabylara.com/contact) |
+| Project enquiries | [Discuss your project with Lara](https://www.vistabylara.com/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=contact_section) |
 | Business email | [solution@vistabylara.com](mailto:solution@vistabylara.com) |
 | Business WhatsApp | [+971 50 799 4292](https://wa.me/971507994292) |
-| Arabic enquiries | [تواصل مع فيستا](https://www.vistabylara.com/ar/contact) |
+| Arabic enquiries | [تواصل مع فيستا](https://www.vistabylara.com/ar/contact?utm_source=github&utm_medium=referral&utm_campaign=founder_profile&utm_content=contact_arabic) |
